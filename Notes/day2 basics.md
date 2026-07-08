@@ -14,4 +14,9 @@ Types of Control Flows:-
         2.continue-skips the current itteration and continues the next.
         3.return-Exits a function and returns a value to the caller.
         4.goto-transfers control to the labeled statement within the same function (error proned).
-        
+
+Did lot of patterns questions practicing loops and nested loops and some of them were challenging but i did them on my own.
+📊 Total Study Time Today
+Session 1: 1h 05m
+Session 2: 2h 03m
+Total: 3 hours 08 minutes
