@@ -1,7 +1,9 @@
 # Visual Studio
 .vs/
+.vscode/
 
 # Build folders
+.build/
 build/
 Debug/
 Release/
