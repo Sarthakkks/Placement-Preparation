@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+
+# Build folders
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# Executables
+*.exe
+
+# Object files
+*.obj
+
+# Debug symbols
+*.pdb
+
+# Incremental linker
+*.ilk
