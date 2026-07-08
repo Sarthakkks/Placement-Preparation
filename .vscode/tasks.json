@@ -8,7 +8,9 @@
                 "/Zi",
                 "/EHsc",
                 "/nologo",
-                "/Fe${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "/Fe${workspaceFolder}\\.build\\${relativeFileDirname}\\${fileBasenameNoExtension}.exe",
+                "/Fo${workspaceFolder}\\.build\\${relativeFileDirname}\\${fileBasenameNoExtension}.obj",
+                "/Fd${workspaceFolder}\\.build\\${relativeFileDirname}\\${fileBasenameNoExtension}.pdb",
                 "${file}"
             ],
             "options": {
