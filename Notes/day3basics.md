@@ -53,3 +53,4 @@ Types of Function in C++
         4.Parameters,return value
 
 A void function is a function that performs an action but does not return a value back to the program that called it.
+Day 3 — 2h 44m session time; ~2–2.5h effective study
