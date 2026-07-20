@@ -165,8 +165,8 @@ Read it like English:
 this->name → the current object's name
 name → the constructor parameter
 
-C++ automatically creates this pointer 
-Whenever a member function is called the compiler secretly passes the current object.
+<!-- C++ automatically creates this pointer 
+Whenever a member function is called the compiler secretly passes the current object. -->
 
 total session was approximately 
 # 4 hours 38 minutes
