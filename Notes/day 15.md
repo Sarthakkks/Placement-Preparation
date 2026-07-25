@@ -1,0 +1,1 @@
+Didnt did much today practiced or revised as i wasnt here so i just skipped today kind off but not a worry ill just continue from tommorow
